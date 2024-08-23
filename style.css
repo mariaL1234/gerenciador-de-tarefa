@@ -1,0 +1,25 @@
+* {
+
+    margin: 10 px;
+    padding: 0 px;
+}
+
+body {
+  
+     background-color: rgb(0, 0, 0);
+     text-align: center;
+     font-size: 25px;
+     color: rgb(248, 248, 248);
+     font-family:'Times New Roman', Times, serif
+     
+    
+
+    }
+
+    
+
+    button:active {
+        background-color: rgb(55, 0, 255) ;
+       
+     
+      }
